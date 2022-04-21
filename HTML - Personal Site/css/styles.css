@@ -1,0 +1,33 @@
+body {
+    background-color:#5F6769;
+
+}
+
+
+hr {
+    border-style: dotted none none;
+    border-color: whitesmoke;
+    border-width: 7px;
+    width: 7%;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}
+
+li {
+    color: white;
+}
+
+td {
+    color: white;
+}
